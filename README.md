@@ -1,4 +1,4 @@
-# Module 2 Assignment: Salary Function (Python & R)
+#  Salary Function (Python & R)
 
 ## Overview
 This project demonstrates the use of Python and R for employee salary data processing, error handling, file export, and cross-language data access. The assignment focuses on importing salary data, retrieving employee details through a function, exporting employee data to a CSV file, compressing it into a ZIP file, and using R to unzip and display the exported data.
@@ -6,7 +6,7 @@ This project demonstrates the use of Python and R for employee salary data proce
 ---
 
 ## Project Objectives
-The objectives of this assignment are to:
+The objectives of this project are to:
 - Import salary data into Python
 - Create a function to retrieve employee details by name
 - Process data using Python dictionaries
@@ -95,4 +95,5 @@ The R script displays the same data in **tabular format** after extraction.
 
 - The ZIP file is created in the same directory as the Jupyter Notebook.
 - Ensure Python code is run before executing the R script.
+
 
